@@ -1,0 +1,10 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5433,
+  "username": "postgres",
+  "password": "A1m3i7r8",
+  "database": "todoapp",
+  "entities": ["dist/**/**.entity{.ts,.js}"],
+  "synchronize": true
+}
